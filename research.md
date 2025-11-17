@@ -5,9 +5,9 @@ Generative AI (GenAI) refers to models capable of creating new text, code, video
 
 1. Chatbots & AI Assistants
 
-Value: Automate communication, speed up workflows, improve code quality. 
-\nChallenges: Context in long dialogs, hallucinations, code safety, IDE integration. 
-\nWeaknesses: Risky/incorrect code, need developer review.
+Value: Automate communication, speed up workflows, improve code quality.
+Challenges: Context in long dialogs, hallucinations, code safety, IDE integration. 
+Weaknesses: Risky/incorrect code, need developer review.
 
 Implementations:
 GitHub Copilot (https://github.com/features/copilot) — real-time AI coding assistant offering suggestions, fixes, and explanations
