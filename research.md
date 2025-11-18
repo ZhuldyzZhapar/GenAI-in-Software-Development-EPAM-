@@ -1,5 +1,5 @@
-Research on Generative AI Applications
-Introduction
+# Research on Generative AI Applications
+# Introduction
 
 Generative AI (GenAI) is a branch of artificial intelligence that creates new content such as text, code, audio, video, and interface elements etc. Modern models are built on Artificial Neural Networks (ANN) and employ attention mechanisms, enabling them to understand context and generate high-quality outputs.
 
@@ -8,7 +8,7 @@ GenAI is rapidly becoming the foundation of state-of-the-art digital products, a
 The following sections highlight key application areas of GenAI and real-world implementations.
 
 
-1. Chatbots & AI Assistants
+# 1. Chatbots & AI Assistants
 
 Business value AI assistants automate communication and provide support through natural language interaction. Chatbots reduce the workload on customer service teams, while tools like Copilot help developers generate code, fix errors, and focus on complex tasks.
 
@@ -29,7 +29,7 @@ GitHub Copilot (https://github.com/features/copilot) — real-time AI coding ass
 JetBrains AI Assistant (https://www.jetbrains.com/ai/) — integrated assistant across JetBrains IDEs, providing context-aware code suggestions, explanations, and documentation support.
 
 
-2. Generative Video
+# 2. Generative Video
 
 Business value Video generation models enable the creation of content without filming, actors, or complex post-production. This reduces costs and accelerates production in media, fashion, film, and marketing.
 
@@ -49,7 +49,7 @@ Higgsfield.ai (https://www.higgsfield.ai/) — generates realistic videos and ch
 Midjourney Video (https://www.midjourney.com/) — experimental tools for AI-driven visual scene and animation generation.
 
 
-3. Generative Audio
+# 3. Generative Audio
 
 Business value Speech generation accelerates dubbing, audiobooks, assistants, and accessibility solutions, reducing production costs and improving user experience.
 
@@ -67,7 +67,7 @@ Implementations:
 Meta Voicebox (https://ai.meta.com/research/) — experimental speech generation and editing model with expressive capabilities.
 ElevenLabs (https://elevenlabs.io/) — platform for realistic voice generation and cloning.
 
-4. Generative Text & UI/UX Design Assistants
+# 4. Generative Text & UI/UX Design Assistants
 
 Business value Design assistants accelerate prototyping by generating text, UX copy, UI elements, and interface concepts. They enhance creativity and reduce manual effort, particularly in AI-native tools and agentic platforms.
 
@@ -85,7 +85,7 @@ Magician (https://www.figma.com/community/file/1398291518728218724) — Figma pl
 
 
 
-Vocabulary (Key Terms)
+# Vocabulary (Key Terms)
 
 Below is a glossary of key terms used in this research, explained in simple language.
 Generative AI (GenAI): AI that creates new content — text, audio, code, video, or design.
